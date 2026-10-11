@@ -1,6 +1,6 @@
 # tailwind-landing-starter
 
-![stack: Tailwind CSS 3](https://img.shields.io/badge/stack--Tailwind%20CSS%203-0d9488?style=flat-square) ![stack: HTML](https://img.shields.io/badge/stack--HTML-0d9488?style=flat-square)
+![stack: Tailwind CSS 3](https://img.shields.io/badge/stack--Tailwind%20CSS%203-0d9488?style=flat-square) ![stack: HTML](https://img.shields.io/badge/stack--HTML-0d9488?style=flat-square) [![Demo](https://img.shields.io/badge/demo-en%20vivo-22c55e?style=flat-square)](https://luisf2020.github.io/tailwind-landing-starter/)
 ![IA: asistido](https://img.shields.io/badge/IA--asistido-6366f1?style=flat-square)
 
 Landing base con Tailwind CSS 3: tema propio, componentes con @apply y utilidades responsive.
@@ -51,8 +51,8 @@ El nivel describe la complejidad tecnica del proyecto, no el grado de dominio de
 
 ## Despliegue
 
-Pendiente de construir y publicar.  
-El codigo fuente si esta disponible en este repositorio.
+Demo en vivo: <https://luisf2020.github.io/tailwind-landing-starter/>  
+Publicado con GitHub Pages (rama `gh-pages`).
 
 ## Autor
 
